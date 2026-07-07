@@ -1,4 +1,4 @@
-def good():
-    return ['Harry', 'Ron', 'Hermione']
-
-print(good())
+print("Welcome to Python")
+print("Welcome to Computer")
+print("Welcome to AI")
+print("Programming is fun")
